@@ -2,9 +2,9 @@
 
 Welcome to BioNanomics! 
 
-*Information will be automatically fetched from [bionanomics.com](https://bionanomics.com/) when the workflow runs.*
+*Information will be fetched from [bionanomics.com](https://bionanomics.com/) when the workflow is manually triggered.*
 
 ---
 
-*Information automatically fetched from [bionanomics.com](https://bionanomics.com/)*  
-*Last updated: Pending first workflow run*
+*Information fetched from [bionanomics.com](https://bionanomics.com/) when manually triggered*  
+*Last updated: Pending first manual workflow run*

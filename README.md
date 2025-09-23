@@ -4,8 +4,8 @@ This repository contains GitHub organization-level configurations and automation
 
 ## Features
 
-- **Automated Website Information Fetching**: A GitHub Action workflow that automatically fetches information from https://bionanomics.com/ and updates the organization profile README.
-- **Daily Updates**: The workflow runs daily to keep the organization profile current with the latest website information.
+- **Manual Website Information Fetching**: A GitHub Action workflow that fetches information from https://bionanomics.com/ and updates the organization profile README when manually triggered.
+- **On-Demand Updates**: The workflow runs only when manually triggered to update the organization profile with the latest website information.
 
 ## Files
 
